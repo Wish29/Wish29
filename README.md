@@ -1,6 +1,9 @@
-# Hi, I'm Biswabandya Mohanty
+<h1 align="center">Hi, I'm Biswa </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines='Consistency+leads+to+success';&font=Fira+Code&center=true&width=620&height=80&color=89eb34&size=22" alt="Typing">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines='+Consistency+leads+to+success+'&font=Fira+Code&center=true&width=620&height=80&color=89eb34&size=22" alt="Typing Animation">
+</p>
+</div>
 
 🎓 Student | 💻 Aspiring Developer | ⚡ Tech Enthusiast
 
