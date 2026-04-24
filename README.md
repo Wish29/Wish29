@@ -27,16 +27,32 @@
 * Access Record System In python 
 
 ---
-<!--
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wish29&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Wish29&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wish29&layout=compact&theme=tokyonight" height="150"/>
+</p>
+</p>
 
 ---
 
 ## 🔥 Streak Stats
+<img src="https://streak-stats.demolab.com?user=Wish29&theme=tokyonight&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" height="150"/>
 
 ---
--->
-## 📫 Connect With Me
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Wish29/Wish29/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+## 🌐 Connect With Me
 
 * 📧 Email: [bmb20071@gmail.com](mailto:bmb20071@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/biswabandya-mohanty-030656360?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
