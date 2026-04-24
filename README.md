@@ -41,11 +41,6 @@
 
 ---
 
-## 🔥 Streak Stats
-<img src="https://streak-stats.demolab.com?user=Wish29&theme=tokyonight&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" height="150"/>
-
----
-
 ## 🌐 Connect With Me
 
 * 📧 Email: [bmb20071@gmail.com](mailto:bmb20071@gmail.com)
