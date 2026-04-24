@@ -46,12 +46,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Wish29/Wish29/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
 ## 🌐 Connect With Me
 
 * 📧 Email: [bmb20071@gmail.com](mailto:bmb20071@gmail.com)
