@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Biswabandya Mohanty
+# Hi, I'm Biswabandya Mohanty
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines='Consistency+leads+to+success';&font=Fira+Code&center=true&width=620&height=80&color=89eb34&size=22" alt="Typing">
 
 🎓 Student | 💻 Aspiring Developer | ⚡ Tech Enthusiast
 
