@@ -15,10 +15,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ TECH ARSENAL
 
-* 💻 Languages: `C`, `Python`, `Bash`
-* 🧰 Tools: `VS Code`, `Linux`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,bash,linux,vscode&theme=dark"/>
+</p>
 
 ---
 
