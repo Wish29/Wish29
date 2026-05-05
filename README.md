@@ -31,19 +31,7 @@
 * Access Record System In python 
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wish29&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Wish29&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wish29&layout=compact&theme=tokyonight" height="150"/>
-</p>
-</p>
-
----
+## ---
 
 ## 🌐 Connect With Me
 
